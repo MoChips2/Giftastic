@@ -1,1 +1,1 @@
-# Giphy-api
+# Giftastic with Marvel!
