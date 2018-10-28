@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(247, 202, 4);
+}
+
+h1 {
+    font-family: "Bangers", cursive;
+    font-size: 400%;
+    color: white;
+}
+
+.form, #button-holder {
+    font-family: "Bangers";
+    font-size: 125%;
+}
+
+.heroes {
+font-size: 120%;
+}
+
+button {
+    margin: 10px;
+}
+
+.gifs {
+    float: left;
+    margin: 10px;
+}
