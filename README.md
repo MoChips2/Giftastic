@@ -23,4 +23,4 @@ In addition, the user can add their favorite character to the list of Marvel but
 Simone
 
 ### Link:
-https://mochips2.github.io/Group_Project_1/
+https://mochips2.github.io/Giftastic/
