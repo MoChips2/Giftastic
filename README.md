@@ -9,16 +9,18 @@ In addition, the user can add their favorite character to the list of Marvel but
 
 ### Built with:
 
-HTML5
-CSS
-jQuery
-Javascript
-Bootstrap
-AJAX
-Giphy API
-Google Fonts
+* HTML5
+* CSS
+* jQuery
+* Javascript
+* Bootstrap
+* AJAX
+* Giphy API
+* Google Fonts
 
 
-### Author
-
+### Author: 
 Simone
+
+### Link:
+https://mochips2.github.io/Group_Project_1/
